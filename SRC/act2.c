@@ -1,7 +1,7 @@
 /**
  * @file act1.c
  * @author Manoj Hunasimarad
- * @brief Activity 1
+ * @brief Activity 2
  * @version 0.1
  * @date 2021-09-15
  * 
