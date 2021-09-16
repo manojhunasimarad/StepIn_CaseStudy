@@ -1,6 +1,6 @@
 
 /**
- * @file act1.c
+ * @file act4.c
  * @author Manoj Hunasimarad
  * @brief Activity 4
  * @version 0.1
