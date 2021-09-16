@@ -1,3 +1,13 @@
+/**
+ * @file act1.c
+ * @author Manoj Hunasimarad
+ * @brief Activity 3
+ * @version 0.1
+ * @date 2021-09-15
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "act3.h"
 #include "act4.h"
 void Init_Timer()
