@@ -1,9 +1,17 @@
+/**
+ * @file act1.c
+ * @author Manoj Hunasimarad
+ * @brief Activity 1
+ * @version 0.1
+ * @date 2021-09-15
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #include<avr/io.h>
 #include "act2.h"
-/**
- * @brief A function to initialise the analog to digital converter
- *
- */
+
 void InitADC()
 {
     ADMUX=(1<<REFS0);   //AVCC = +5V
