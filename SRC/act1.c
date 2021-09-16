@@ -1,12 +1,18 @@
+/**
+ * @file act1.c
+ * @author Manoj Hunasimarad
+ * @brief Activity 1
+ * @version 0.1
+ * @date 2021-09-15
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include "act1.h"
 
-/**
- * @brief A function to operate the button and heater sensor
- 
- *
- */
 void ButtonsHeat_LED_Init()
 {
      /*Configure LED and Switch pins*/
