@@ -15,7 +15,7 @@
 
 #define CLEAR_LED PORTD&=~(1<<PD2)
 
-void Buttons_LED_Init();
+void ButtonsHeat_LED_Init();
 
 
 #endif //ACT1_H_INCLUDED
