@@ -5,7 +5,7 @@ BUILD_DIR = Build
 # All Source code files
 SRC = main.c\
 src/act4.c\
-src/led.c\
+src/lcd.c\
 src/act3.c\
 src/act2.c\
 src/act1.c\
