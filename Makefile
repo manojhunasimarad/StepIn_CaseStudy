@@ -4,10 +4,10 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/activity1.c\
-src/activity2.c\
-src/activity3.c\
-src/activity4.c\
+src/act1.c\
+src/act2.c\
+src/act3.c\
+src/act4.c\
 
 
 #Object copy to create hexfile
