@@ -3,7 +3,7 @@ ROJ_NAME = CaseStudy
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main.c\
+SRC =
 src/act1.c\
 src/act2.c\
 src/act3.c\
